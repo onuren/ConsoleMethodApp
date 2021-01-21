@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9blyE4AvwuHk3yU0WV43wH6b++LcBadyu4708qo18EAX9tLeieVlsgZO+87FRxDBaLqQzzk4Lv/pcz8i7iAmSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\truf3\\Desktop\\ConsoleMethodApp-master\\ConsoleMethodApp\\ConsoleMethodApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\truf3\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\truf3\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\truf3\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\truf3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

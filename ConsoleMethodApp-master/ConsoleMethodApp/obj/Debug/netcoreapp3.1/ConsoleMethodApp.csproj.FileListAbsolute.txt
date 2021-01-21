@@ -1,0 +1,13 @@
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\bin\Debug\netcoreapp3.1\ConsoleMethodApp.exe
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\bin\Debug\netcoreapp3.1\ConsoleMethodApp.deps.json
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\bin\Debug\netcoreapp3.1\ConsoleMethodApp.runtimeconfig.json
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\bin\Debug\netcoreapp3.1\ConsoleMethodApp.runtimeconfig.dev.json
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\bin\Debug\netcoreapp3.1\ConsoleMethodApp.dll
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\bin\Debug\netcoreapp3.1\ConsoleMethodApp.pdb
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\obj\Debug\netcoreapp3.1\ConsoleMethodApp.csprojAssemblyReference.cache
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\obj\Debug\netcoreapp3.1\ConsoleMethodApp.AssemblyInfoInputs.cache
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\obj\Debug\netcoreapp3.1\ConsoleMethodApp.AssemblyInfo.cs
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\obj\Debug\netcoreapp3.1\ConsoleMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\obj\Debug\netcoreapp3.1\ConsoleMethodApp.dll
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\obj\Debug\netcoreapp3.1\ConsoleMethodApp.pdb
+C:\Users\truf3\Desktop\ConsoleMethodApp-master\ConsoleMethodApp\obj\Debug\netcoreapp3.1\ConsoleMethodApp.genruntimeconfig.cache
